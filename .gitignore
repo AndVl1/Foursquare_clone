@@ -11,4 +11,4 @@
 /build
 /captures
 .externalNativeBuild
-layout/activity_maps.xml
+/app/src/debug/res/values/google_maps_api.xml
